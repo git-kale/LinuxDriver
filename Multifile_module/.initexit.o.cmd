@@ -1,0 +1,1 @@
+cmd_/home/vip3r/kernel_dev/LinuxDriver/Multifile_module/initexit.o := ld -m elf_x86_64  -z max-page-size=0x200000   -r -o /home/vip3r/kernel_dev/LinuxDriver/Multifile_module/initexit.o /home/vip3r/kernel_dev/LinuxDriver/Multifile_module/init.o /home/vip3r/kernel_dev/LinuxDriver/Multifile_module/exit.o 
