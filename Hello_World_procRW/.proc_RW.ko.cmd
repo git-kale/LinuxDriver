@@ -1,0 +1,1 @@
+cmd_/home/vip3r/LinuxDriver/Hello_World_procRW/proc_RW.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/vip3r/LinuxDriver/Hello_World_procRW/proc_RW.ko /home/vip3r/LinuxDriver/Hello_World_procRW/proc_RW.o /home/vip3r/LinuxDriver/Hello_World_procRW/proc_RW.mod.o ;  true

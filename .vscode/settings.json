@@ -2,7 +2,13 @@
     "files.associations": {
         "kernel.h": "c",
         "sysinfo.h": "c",
-        "types.h": "c"
+        "types.h": "c",
+        "seq_file.h": "c",
+        "uaccess.h": "c",
+        "slab.h": "c",
+        "sched.h": "c",
+        "proc_fs.h": "c",
+        "module.h": "c"
     },
     "C_Cpp.intelliSenseEngineFallback": "Disabled"
 }
