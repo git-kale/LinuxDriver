@@ -1,0 +1,1 @@
+cmd_/home/vip3r/LinuxDriver/Hello_World_proc/hello_world.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/vip3r/LinuxDriver/Hello_World_proc/hello_world.ko /home/vip3r/LinuxDriver/Hello_World_proc/hello_world.o /home/vip3r/LinuxDriver/Hello_World_proc/hello_world.mod.o ;  true
